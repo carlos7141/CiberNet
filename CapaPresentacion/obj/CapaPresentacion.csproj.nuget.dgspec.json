@@ -1,0 +1,332 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaPresentacion\\CapaPresentacion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaClases\\CapaClases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaClases\\CapaClases.csproj",
+        "projectName": "CapaClases",
+        "projectPath": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaClases\\CapaClases.csproj",
+        "packagesPath": "C:\\Users\\CARLOS-714\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaClases\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CARLOS-714\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaHerramientas\\CapaHerramientas.csproj": {
+                "projectPath": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaHerramientas\\CapaHerramientas.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "SuperSimpleTcp": {
+              "target": "Package",
+              "version": "[3.0.13, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "itext7.bouncy-castle-adapter": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "itext7.commons": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaHerramientas\\CapaHerramientas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaHerramientas\\CapaHerramientas.csproj",
+        "projectName": "CapaHerramientas",
+        "projectPath": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaHerramientas\\CapaHerramientas.csproj",
+        "packagesPath": "C:\\Users\\CARLOS-714\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaHerramientas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CARLOS-714\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaPresentacion\\CapaPresentacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaPresentacion\\CapaPresentacion.csproj",
+        "projectName": "CapaPresentacion",
+        "projectPath": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaPresentacion\\CapaPresentacion.csproj",
+        "packagesPath": "C:\\Users\\CARLOS-714\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaPresentacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CARLOS-714\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaClases\\CapaClases.csproj": {
+                "projectPath": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaClases\\CapaClases.csproj"
+              },
+              "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaHerramientas\\CapaHerramientas.csproj": {
+                "projectPath": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaHerramientas\\CapaHerramientas.csproj"
+              },
+              "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaSQL\\CapaSQL.csproj": {
+                "projectPath": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaSQL\\CapaSQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "SuperSimpleTcp": {
+              "target": "Package",
+              "version": "[3.0.13, )"
+            },
+            "Syncfusion.SfInput.WinForms": {
+              "target": "Package",
+              "version": "[22.2.12, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "itext7.bouncy-castle-adapter": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "itext7.commons": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaSQL\\CapaSQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaSQL\\CapaSQL.csproj",
+        "projectName": "CapaSQL",
+        "projectPath": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaSQL\\CapaSQL.csproj",
+        "packagesPath": "C:\\Users\\CARLOS-714\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CARLOS-714\\Desktop\\TERCERO\\Proyecto\\CiberNetHost\\CapaSQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CARLOS-714\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

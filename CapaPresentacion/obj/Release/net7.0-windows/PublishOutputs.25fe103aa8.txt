@@ -1,0 +1,17 @@
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaPresentacion.exe
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaPresentacion.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaPresentacion.deps.json
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaPresentacion.runtimeconfig.json
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaPresentacion.dll.config
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaPresentacion.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\SuperSimpleTcp.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\System.Data.SqlClient.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\runtimes\win-arm64\native\sni.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\runtimes\win-x64\native\sni.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\runtimes\win-x86\native\sni.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaClases.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaSQL.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaClases.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaSQL.pdb

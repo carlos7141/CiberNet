@@ -1,0 +1,193 @@
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.exe
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.dll.config
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.deps.json
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\SuperSimpleTcp.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaClases.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaSQL.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaClases.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaSQL.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormLoading.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormLoginAdmin.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormRegistrarAdmin.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormInicio.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormMenuPrincipal.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormUsuarios.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.PanelLogin.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\refint\CapaPresentacion.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\ref\CapaPresentacion.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormMaquinas.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.RegistrarPC.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.RegistrarUser.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.barcodes.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.forms.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.io.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.kernel.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.layout.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.pdfa.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.sign.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.styledxmlparser.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.svg.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.commons.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\refint\CapaPresentacion.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.pdb
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.exe
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.dll.config
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.deps.json
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.runtimeconfig.json
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.pdb
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\SuperSimpleTcp.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaClases.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaSQL.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaClases.pdb
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaSQL.pdb
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormLoading.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormLoginAdmin.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormRegistrarAdmin.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormInicio.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormMenuPrincipal.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormMaquinas.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.RegistrarPC.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormUsuarios.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.RegistrarUser.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.PanelLogin.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.Properties.Resources.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.AssemblyInfo.cs
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.csproj.CopyComplete
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.genruntimeconfig.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\ref\CapaPresentacion.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaHerramientas.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaHerramientas.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.UpdateUser.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.UpdatePC.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.barcodes.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.bouncy-castle-connector.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.forms.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.io.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.kernel.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.layout.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.pdfa.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.sign.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.styledxmlparser.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.svg.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.commons.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaHerramientas.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaHerramientas.pdb
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.UpdatePC.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.UpdateUser.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormTarifas.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.RegistrarTarifa.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.UpdateTarifa.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormTarifas.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.RegistrarTarifa.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.UpdateTarifa.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormBackup.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormInformes.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Syncfusion.Core.WinForms.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Syncfusion.Licensing.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Syncfusion.SfInput.WinForms.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Syncfusion.Shared.Base.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\itext.bouncy-castle-adapter.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Syncfusion.Core.WinForms.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Syncfusion.Licensing.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Syncfusion.SfInput.WinForms.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\Syncfusion.Shared.Base.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormBackup.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormInformes.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormReserva.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.RegistrarReserva.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.UpdateReserva.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.FormReserva.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.RegistrarReserva.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.UpdateReserva.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\en-US\CapaPresentacion.resources.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\CapaPresentacion.RegistrarReserva.en-US.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\en-US\CapaPresentacion.resources.dll

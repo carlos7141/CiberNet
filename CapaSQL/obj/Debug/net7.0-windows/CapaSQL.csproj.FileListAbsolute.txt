@@ -1,0 +1,36 @@
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL2\obj\Debug\net7.0-windows\CapaSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL2\obj\Debug\net7.0-windows\CapaSQL.AssemblyInfoInputs.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL2\obj\Debug\net7.0-windows\CapaSQL.AssemblyInfo.cs
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL2\obj\Debug\net7.0-windows\CapaSQL.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL2\bin\Debug\net7.0-windows\CapaSQL.deps.json
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL2\bin\Debug\net7.0-windows\CapaSQL.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL2\bin\Debug\net7.0-windows\CapaSQL.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL2\obj\Debug\net7.0-windows\CapaSQL.csproj.AssemblyReference.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL2\obj\Debug\net7.0-windows\CapaSQL.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL2\obj\Debug\net7.0-windows\refint\CapaSQL.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL2\obj\Debug\net7.0-windows\CapaSQL.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL2\obj\Debug\net7.0-windows\ref\CapaSQL.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL\bin\Debug\net7.0-windows\CapaSQL.deps.json
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL\bin\Debug\net7.0-windows\CapaSQL.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL\bin\Debug\net7.0-windows\CapaSQL.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.csproj.AssemblyReference.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.AssemblyInfoInputs.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.AssemblyInfo.cs
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\refint\CapaSQL.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\ref\CapaSQL.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaSQL\bin\Debug\net7.0-windows\CapaSQL.deps.json
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaSQL\bin\Debug\net7.0-windows\CapaSQL.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaSQL\bin\Debug\net7.0-windows\CapaSQL.pdb
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.csproj.AssemblyReference.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.AssemblyInfoInputs.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.AssemblyInfo.cs
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.csproj.CoreCompileInputs.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\refint\CapaSQL.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\CapaSQL.pdb
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaSQL\obj\Debug\net7.0-windows\ref\CapaSQL.dll

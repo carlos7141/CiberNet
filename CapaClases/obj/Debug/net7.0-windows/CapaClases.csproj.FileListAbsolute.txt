@@ -1,0 +1,30 @@
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\bin\Debug\net7.0-windows\CapaClases.deps.json
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\bin\Debug\net7.0-windows\CapaClases.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\bin\Debug\net7.0-windows\CapaClases.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.csproj.AssemblyReference.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.AssemblyInfoInputs.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.AssemblyInfo.cs
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\refint\CapaClases.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\ref\CapaClases.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\bin\Debug\net7.0-windows\CapaClases.deps.json
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\bin\Debug\net7.0-windows\CapaClases.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\bin\Debug\net7.0-windows\CapaClases.pdb
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.csproj.AssemblyReference.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.AssemblyInfoInputs.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.AssemblyInfo.cs
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.csproj.CoreCompileInputs.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\refint\CapaClases.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.pdb
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\ref\CapaClases.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\bin\Debug\net7.0-windows\CapaHerramientas.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\bin\Debug\net7.0-windows\CapaHerramientas.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.csproj.CopyComplete
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\bin\Debug\net7.0-windows\CapaHerramientas.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\bin\Debug\net7.0-windows\CapaHerramientas.pdb
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaClases\obj\Debug\net7.0-windows\CapaClases.csproj.CopyComplete

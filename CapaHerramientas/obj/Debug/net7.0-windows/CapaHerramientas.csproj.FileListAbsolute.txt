@@ -1,0 +1,33 @@
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.AssemblyInfoInputs.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.AssemblyInfo.cs
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\bin\Debug\net7.0-windows\CapaHerramientas.deps.json
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\bin\Debug\net7.0-windows\CapaHerramientas.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\bin\Debug\net7.0-windows\CapaHerramientas.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\refint\CapaHerramientas.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\ref\CapaHerramientas.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.csproj.GenerateResource.cache
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.BoxText.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.cuadroPC.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.FormMessageBox.resources
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.Properties.Resources.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\bin\Debug\net7.0-windows\CapaHerramientas.deps.json
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\bin\Debug\net7.0-windows\CapaHerramientas.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\bin\Debug\net7.0-windows\CapaHerramientas.pdb
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.csproj.AssemblyReference.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.BoxText.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.cuadroPC.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.FormMessageBox.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.Properties.Resources.resources
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.csproj.GenerateResource.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.AssemblyInfoInputs.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.AssemblyInfo.cs
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.csproj.CoreCompileInputs.cache
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\refint\CapaHerramientas.dll
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\CapaHerramientas.pdb
+D:\CARLOS TAPIA CHOQUE\PROGRAMACION 3\Proyecto\CiberNetHost\CapaHerramientas\obj\Debug\net7.0-windows\ref\CapaHerramientas.dll

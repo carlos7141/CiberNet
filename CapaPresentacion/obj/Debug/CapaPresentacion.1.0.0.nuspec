@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CapaPresentacion</id>
+    <version>1.0.0</version>
+    <authors>CapaPresentacion</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="CapaClases" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="CapaHerramientas" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="CapaSQL" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Data.SqlClient" version="5.1.1" exclude="Build,Analyzers" />
+        <dependency id="SuperSimpleTcp" version="3.0.13" exclude="Build,Analyzers" />
+        <dependency id="Syncfusion.SfInput.WinForms" version="22.2.12" exclude="Build,Analyzers" />
+        <dependency id="itext7" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="itext7.bouncy-castle-adapter" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="itext7.commons" version="8.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net7.0-windows7.0/5kbit72.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\obj\Debug\net7.0-windows\en-US\CapaPresentacion.resources.dll" target="lib\net7.0-windows7.0\en-US\CapaPresentacion.resources.dll" />
+    <file src="C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.runtimeconfig.json" target="lib\net7.0-windows7.0\CapaPresentacion.runtimeconfig.json" />
+    <file src="C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\bin\Debug\net7.0-windows\CapaPresentacion.dll" target="lib\net7.0-windows7.0\CapaPresentacion.dll" />
+    <file src="C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\5kbit72.ico" target="content\5kbit72.ico" />
+    <file src="C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\CiberNetHost\CapaPresentacion\5kbit72.ico" target="contentFiles\any\net7.0-windows7.0\5kbit72.ico" />
+  </files>
+</package>

@@ -1,0 +1,94 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <ApplicationIcon>5kbit72.ico</ApplicationIcon>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>7</WarningLevel>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <WarningLevel>7</WarningLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="5kbit72.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="itext7" Version="8.0.1" />
+    <PackageReference Include="itext7.bouncy-castle-adapter" Version="8.0.1" />
+    <PackageReference Include="itext7.commons" Version="8.0.1" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
+    <PackageReference Include="SuperSimpleTcp" Version="3.0.13" />
+    <PackageReference Include="Syncfusion.SfInput.WinForms" Version="22.2.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CapaClases\CapaClases.csproj" />
+    <ProjectReference Include="..\CapaHerramientas\CapaHerramientas.csproj" />
+    <ProjectReference Include="..\CapaSQL\CapaSQL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="CapaMenu\FormInformes.cs" />
+    <Compile Update="CapaMenu\FormBackup.cs" />
+    <Compile Update="CapaMenu\Reserva\FormReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CapaMenu\Reserva\RegistrarReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CapaMenu\Reserva\UpdateReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CapaMenu\Tarifas\RegistrarTarifa.cs" />
+    <Compile Update="CapaMenu\Tarifas\UpdateTarifa.cs" />
+    <Compile Update="CapaMenu\Usuarios\UpdateUser.cs" />
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="CapaClases" />
+    <Using Include="CapaHerramientas" />
+    <Using Include="CapaSQL" />
+    <Using Include="Microsoft.Data.SqlClient" />
+    <Using Include="SuperSimpleTcp" />
+    <Using Include="System.Configuration" />
+    <Using Include="System.Data" />
+    <Using Include="System.Text" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

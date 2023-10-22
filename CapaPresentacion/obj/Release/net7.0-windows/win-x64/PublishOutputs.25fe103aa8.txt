@@ -1,0 +1,11 @@
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaPresentacion.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaPresentacion.dll.config
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\D3DCompiler_47_cor3.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\PenImc_cor3.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\PresentationNative_cor3.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\vcruntime140_cor3.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\wpfgfx_cor3.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaClases.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaSQL.pdb
+C:\Users\CARLOS-714\Desktop\TERCERO\Proyecto\Nueva carpeta\CapaPresentacion.exe
